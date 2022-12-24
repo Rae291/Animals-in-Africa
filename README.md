@@ -1,6 +1,7 @@
 # Animals-in-Africa
 It is a SwiftUI iPhone and iPad application that uses local JSON data to show information, map, pictures and videos of various animals in Africa. It is designed specifically for dark mode. It has the following Tab Views:
 
+iPhone:
 1. Browse Tab:
 https://user-images.githubusercontent.com/107467793/209448586-05106805-0ab0-404f-a61b-21689dbd1dd6.mp4
 
@@ -13,4 +14,9 @@ https://user-images.githubusercontent.com/107467793/209448606-c7594e6d-f5f1-46e2
 
 4. Gallery Tab:
 https://user-images.githubusercontent.com/107467793/209448608-2db647a6-2dcb-4cee-86a4-cd7a104da34d.mp4
+
+iPad:
+
+
+https://user-images.githubusercontent.com/107467793/209450739-00e919b1-832c-48bb-b6d4-2e34949d159f.mp4
 
